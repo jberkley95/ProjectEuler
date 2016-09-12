@@ -3,7 +3,7 @@ import java.math.BigInteger;
 /**
  * Created by John on 6/7/2016.
  */
-public class Problem13 {
+public class Problem013 {
     public static void main(String[] args) {
         long start = System.currentTimeMillis();
 

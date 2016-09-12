@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * Created by John on 6/8/2016.
  */
-public class Problem24 {
+public class Problem024 {
     public static void main(String[] args) {
         long start = System.currentTimeMillis();
 

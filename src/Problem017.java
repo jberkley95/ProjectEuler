@@ -1,7 +1,7 @@
 /**
  * Created by John on 6/7/2016.
  */
-public class Problem17 {
+public class Problem017 {
     private final static String[] ONES = {
             "zero", "one", "two", "three", "four", "five",
             "six", "seven", "eight", "nine", "ten", "eleven",

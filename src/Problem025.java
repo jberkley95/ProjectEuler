@@ -4,7 +4,7 @@ import java.math.BigInteger;
 /**
  * Created by John on 6/8/2016.
  */
-public class Problem25 {
+public class Problem025 {
     public static void main(String[] args) {
         long start = System.currentTimeMillis();
 

@@ -8,7 +8,7 @@ import java.util.Scanner;
 /**
  * Created by John on 6/7/2016.
  */
-public class Problem22 {
+public class Problem022 {
     public static void main(String[] args) {
         long start = System.currentTimeMillis();
         List<String> text = new ArrayList<>();

@@ -1,7 +1,7 @@
 /**
  * Created by John on 6/7/2016.
  */
-public class Problem18 {
+public class Problem018 {
     private static int[][] triangle = {
                           {75},
                          {95,64},

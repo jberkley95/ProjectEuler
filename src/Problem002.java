@@ -1,7 +1,7 @@
 /**
  * Created by John on 6/6/2016.
  */
-public class Problem2 {
+public class Problem002 {
     public static void main(String[] args) {
         int f1 = 1, f2 = 1, f3 = 0;
         int sum = 0;

@@ -1,7 +1,7 @@
 /**
  * Created by John on 6/7/2016.
  */
-public class Problem14 {
+public class Problem014 {
     public static void main(String[] args) {
         long start = System.currentTimeMillis();
 
